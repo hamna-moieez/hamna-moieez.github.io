@@ -6,7 +6,7 @@ description: A responsive site template designed by HTML5 Up<br /> and released 
 #baseurl: "/forty-jekyll-theme/" # the subpath of your site, e.g. /blog
 url: "/hamna-moieez.github.io/" # the base hostname & protocol for your site
 author:
-street_address: 7th Road
+street_address: 7th Road, Satellite Town
 city: Rawalpindi
 # state: TN
 zip_code: 46300
@@ -15,12 +15,12 @@ phone: (+92) 331 9755588
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 5
+tiles-count: 4
 
 # social settings
 github_url: https://github.com/hamna-moieez
 linkedin_url: https://www.linkedin.com/in/hamna-moieez-7a760718a/
-fiverr_url: https://www.fiverr.com/hamnamoiz
+# fiverr_url: https://www.fiverr.com/hamnamoiz
 # build settings
 markdown: kramdown
 
