@@ -383,9 +383,15 @@ Finally, this is a <a href="#">link</a>.</p>
 <p><span class="image right"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p> -->
 
 <!-- Box -->
-<h3>Box</h3>
+<h3> Bachelors of Engineering in Software Engineering (BESE) </h3>
 <div class="box">
-	<p>Felis sagittis eget tempus primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Magna sed etiam ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus lorem ipsum.</p>
+	<p>I am currently enrolled in the final (4th) year of my undergraduate at School of Electrical Engineering and Computer Sciences (SEECS) from National University of Sciences and Technology (NUST), Islamabad, Pakistan. I will be graduating this year (2020). </p>
+	<p><b>CPGA -</b><em> 3.43/4.00 </em></p>  
+</div>
+
+<h3> Higher Secondary School Certificate (Pre-Engineering) </h3>
+<div class="box">
+	<p>I attained my higher secondary school certificate in pre-engineering from Federal Board of Intermediate and Secondary Education (FBISE) in 2016. </p>
 </div>
 
 <!-- Preformatted Code -->
