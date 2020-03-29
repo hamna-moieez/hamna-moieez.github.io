@@ -9,7 +9,7 @@ nav-menu: true
 <div id="main" class="alt">
 
 <!-- One -->
-  <div class="row>
+  <div class="row">
     <div>
       <h3> Slum Mapping Via Remote Sensing Imagery </h3>
       <p><span class="image left"><img src="{% link assets/images/pic13.png %}" alt="" /></span><b><em> Jun 2019 - present </em></b><a href="https://tukl.seecs.nust.edu.pk/">TUKL-NUST</a> is a research and development center set up by a joint collaboration of TUKL,Germany, and NUST, Islamabad advised by Prof. Dr. Faisal Shafait. I am working on undergraduate research thesis with TUKL-NUST R&D Center on slum mapping andlocalization using satellite imagery.I am focusing on identifying slums and collecting datasets from satellite imagery in Karachi and Islamabad. My current focus is on building loss functions to characterize long-tailed distributions since in majority of slum datasets the foreground pixels are dominant. This work is being done in collaboration with SiPEO Lab at TUM, Germany and German Aerospace Center. </p>
