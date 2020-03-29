@@ -1,7 +1,7 @@
 ---
 title: Blog Posts
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Reflecting on events and research activities<br />Dive in to get some insight.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
