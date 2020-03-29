@@ -7,7 +7,7 @@ nav-menu: true
 ---
 <!-- Main -->
 <div id="main" class="alt">
-  <h2 id="content">Jobs &amp; Internships</h2>
+  <h2 id="content">Jobs & Internships</h2>
 <!-- One -->
   <div>
     <div class="row">
