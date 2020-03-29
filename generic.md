@@ -38,18 +38,17 @@ nav-menu: true
     <h3>Distracted Driver Detection</h3>
     <p align="justify">An image classiﬁcation task using a Kaggle dataset for the StateFarm Competition. I built a simpliﬁed VGG net for the multi-class classiﬁcation task at hand for the task and then tested the performance of the model on the provided dataset achieving compareable results.</p>
   </div>
-      <!-- Break -->
-      <div class="4u 12u$(medium)">
-        <h3>Cosmic Cakes</h3>
-        <p align="justify">I worked on building an automatic android based cupcake ordering system to get rid of the manual fuss of cupcake ordering and selection, it included customizing the cupcakes of your choice and maintained a record of the bill and inventory facilitating both the manager and customers.</p>
-      </div>
-      <div class="4u 12u$(medium)">
-        <h3>Syrup</h3>
-        <p align="justify">A go-to website for foodies built using Google’s ﬁrebase web services. It was a web based platform for food reviews and was built using standard web stack. It was a semester project for the Web Engineering course.</p>
-      </div>
-      <div class="4u$ 12u$(medium)">
-        <h3>S-A-S</h3>
-        <p align="justify">An android based application to perform and manage student advisory tasks for both teachers and students in academic environments</p>
-      </div>
-    </div>
+  <div class="4u 12u$(medium)">
+  <h3>Cosmic Cakes</h3>
+  <p align="justify">I worked on building an automatic android based cupcake ordering system to get rid of the manual fuss of cupcake ordering and selection, it included customizing the cupcakes of your choice and maintained a record of the bill and inventory facilitating both the manager and customers.</p>
+  </div>
+  <div class="4u 12u$(medium)">
+    <h3>Syrup</h3>
+    <p align="justify">A go-to website for foodies built using Google’s ﬁrebase web services. It was a web based platform for food reviews and was built using standard web stack. It was a semester project for the Web Engineering course.</p>
+  </div>
+  <div class="4u$ 12u$(medium)">
+    <h3>S-A-S</h3>
+    <p align="justify">An android based application to perform and manage student advisory tasks for both teachers and students in academic environments</p>
+  </div>
+</div>
 </div>
