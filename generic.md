@@ -25,6 +25,6 @@ nav-menu: true
     </div>
   </div>
   <div>
-  <h2 id="content">Personal Projects</h2>
+  <h2 id="content"> Personal Projects </h2>
   </div>
 </div>
