@@ -30,27 +30,27 @@ nav-menu: true
   </div>
   <div>
   <h2 id="content"> Personal Projects </h2>
-  <div class="row">
-  <div class="6u 12u$(small)">
-    <h3>Whalify</h3>
-    <p align="justify"> A project for classification and detection of whale calls without any speech pre-processing involved. For this, I collected raw audio dataset from Kaggle and CMST. The goal was to perform binary classification on orca and other whale call types. I trained AlexNet for thetask by converting raw audio samples to spectrograms.</p>
+    <div class="row">
+    <div class="6u 12u$(small)">
+      <h3>Whalify</h3>
+      <p align="justify"> A project for classification and detection of whale calls without any speech pre-processing involved. For this, I collected raw audio dataset from Kaggle and CMST. The goal was to perform binary classification on orca and other whale call types. I trained AlexNet for thetask by converting raw audio samples to spectrograms.</p>
+    </div>
+    <div class="6u$ 12u$(small)">
+      <h3>Distracted Driver Detection</h3>
+      <p align="justify">An image classiﬁcation task using a Kaggle dataset for the StateFarm Competition. I built a simpliﬁed VGG net for the multi-class classiﬁcation task at hand for the task and then tested the performance of the model on the provided dataset achieving compareable results.</p>
+    </div>
+    <div class="4u 12u$(medium)">
+    <h3>Cosmic Cakes</h3>
+    <p align="justify">I worked on building an automatic android based cupcake ordering system to get rid of the manual fuss of cupcake ordering and selection, it included customizing the cupcakes of your choice and maintained a record of the bill and inventory facilitating both the manager and customers.</p>
+    </div>
+    <div class="4u 12u$(medium)">
+      <h3>Syrup</h3>
+      <p align="justify">A go-to website for foodies built using Google’s ﬁrebase web services. It was a web based platform for food reviews and was built using standard web stack. It was a semester project for the Web Engineering course.</p>
+    </div>
+    <div class="4u$ 12u$(medium)">
+      <h3>S-A-S</h3>
+      <p align="justify">An android based application to perform and manage student advisory tasks for both teachers and students in academic environments</p>
+    </div>
   </div>
-  <div class="6u$ 12u$(small)">
-    <h3>Distracted Driver Detection</h3>
-    <p align="justify">An image classiﬁcation task using a Kaggle dataset for the StateFarm Competition. I built a simpliﬁed VGG net for the multi-class classiﬁcation task at hand for the task and then tested the performance of the model on the provided dataset achieving compareable results.</p>
-  </div>
-  <div class="4u 12u$(medium)">
-  <h3>Cosmic Cakes</h3>
-  <p align="justify">I worked on building an automatic android based cupcake ordering system to get rid of the manual fuss of cupcake ordering and selection, it included customizing the cupcakes of your choice and maintained a record of the bill and inventory facilitating both the manager and customers.</p>
-  </div>
-  <div class="4u 12u$(medium)">
-    <h3>Syrup</h3>
-    <p align="justify">A go-to website for foodies built using Google’s ﬁrebase web services. It was a web based platform for food reviews and was built using standard web stack. It was a semester project for the Web Engineering course.</p>
-  </div>
-  <div class="4u$ 12u$(medium)">
-    <h3>S-A-S</h3>
-    <p align="justify">An android based application to perform and manage student advisory tasks for both teachers and students in academic environments</p>
-  </div>
-</div>
-  </div>
+ </div>
 </div>
