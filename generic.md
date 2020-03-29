@@ -24,7 +24,7 @@ nav-menu: true
       <p><span class="image left"><img src="{% link assets/images/pic13.png %}" alt="" /></span><b><em> Jun 2018 - Aug 2018 </em></b>Center for Research in Modeling, Simulation & Vision (<a href="http://seecs.nust.edu.pk/Departments/Department-of-Computing/Labs/crms-lab.php">Crimson</a>) Lab is a research and development center setup to cater for modeling, simulation, analysis and optimization of complex research problems related to the disparate ﬁelds of ICT. Dr. Imran Mahmood. { 3D Modelling for VR based Games I worked as a development intern on creating VR based game in Unity. Speciﬁcally, I worked on creating destructible 3D objects in Blender and Unity 3D as per the requirement of the game plot. </p>
     </div>
   </div>
-  <div class = "row">
+<!--   <div> -->
     <h2 id="content"> Personal Projects </h2>
     <div class="row">
       <div class="6u 12u$(small)">
@@ -49,5 +49,5 @@ nav-menu: true
         <p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
       </div>
     </div>
-  </div>
+  <!--</div>--> 
 </div>
