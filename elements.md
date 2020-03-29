@@ -390,7 +390,7 @@ Finally, this is a <a href="#">link</a>.</p>
 
 <h3> Higher Secondary School Certificate (Pre-Engineering) </h3>
 <div class="box">
-	<p>I attained my higher secondary school certificate in pre-engineering from Federal Board of Intermediate and Secondary Education (FBISE) in 2016. </p>
+	<p>I attained my higher secondary school certificate after completing two years of education in pre-engineering from Federal Board of Intermediate and Secondary Education (FBISE) in 2016. <br> <b>Percentage -</b><em> 83.0% </em></p>
 </div>
 
 <!-- Preformatted Code -->
