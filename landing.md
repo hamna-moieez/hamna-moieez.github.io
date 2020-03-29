@@ -1,8 +1,8 @@
 ---
 title: Blog Posts
 layout: landing
-description: 'Reflecting on events and research activities<br />Dive in to get some insight.'
-image: assets/images/pic07.jpg
+description: 'Reflecting on events and research activities <br>Dive in to get some insight.'
+image: assets/images/pic17.jpg
 nav-menu: true
 ---
 
