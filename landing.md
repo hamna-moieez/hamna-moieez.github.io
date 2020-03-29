@@ -1,5 +1,5 @@
 ---
-title: Landing
+title: Blog Posts
 layout: landing
 description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
 image: assets/images/pic07.jpg
@@ -72,7 +72,7 @@ nav-menu: true
 </section>
 
 <!-- Three -->
-<section id="three">
+<!-- <section id="three">
 	<div class="inner">
 		<header class="major">
 			<h2>Massa libero</h2>
@@ -82,6 +82,6 @@ nav-menu: true
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
 	</div>
-</section>
+</section> -->
 
 </div>
