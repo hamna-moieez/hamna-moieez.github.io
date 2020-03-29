@@ -17,7 +17,7 @@ nav-menu: true
     </div>
     <div class="row">
       <h3> Teaching Assistant for AI</h3>
-      <p><span class="image left"><img src="{% link assets/images/pic16.png %}" alt="" /></span><b><em> Jan 2020 - present </em></b> I am working as a teaching assistant for Artificial Intelligence course. My main responsibilities are to grade assignments, quizzes and end semester projects. Additionally, I have to deliver a brief lecture once a week and carry out occasional workshops to guide students through the senester.</p>
+      <p><span class="image left"><img src="{% link assets/images/pic16.jpg %}" alt="" /></span><b><em> Jan 2020 - present </em></b> I am working as a teaching assistant for Artificial Intelligence course. My main responsibilities are to grade assignments, quizzes and end semester projects. Additionally, I have to deliver a brief lecture once a week and carry out occasional workshops to guide students through the senester.</p>
     </div>
     <div class="row">
       <h3> Search Engine Optimized Content Writing </h3>
