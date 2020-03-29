@@ -16,7 +16,7 @@ nav-menu: true
       <p><span class="image left"><img src="{% link assets/images/pic14.png %}" alt="" /></span><b><em> Jun 2019 - present </em></b><a href="https://tukl.seecs.nust.edu.pk/">TUKL-NUST</a> is a research and development center set up by a joint collaboration of TUKL,Germany, and NUST, Islamabad advised by Prof. Dr. Faisal Shafait. I am working on undergraduate research thesis with TUKL-NUST R&D Center on slum mapping andlocalization using satellite imagery.I am focusing on identifying slums and collecting datasets from satellite imagery in Karachi and Islamabad. My current focus is on building loss functions to characterize long-tailed distributions since in majority of slum datasets the foreground pixels are dominant. This work is being done in collaboration with SiPEO Lab at TUM, Germany and German Aerospace Center. </p>
     </div>
     <div class="row">
-      <h3> Content Writing </h3>
+      <h3> Search Engine Optimized Content Writing </h3>
       <p><span class="image left"><img src="{% link assets/images/pic13.png %}" alt="" /></span><b><em> July 2019 - Sep 2019 </em></b>Center for Research in Modeling, Simulation & Vision (Crimson) Lab is a research and development center setup to cater for modeling, simulation, analysis and optimization of complex research problems related to the disparate ﬁelds of ICT. Dr. Imran Mahmood. { 3D Modelling for VR based Games I worked as a development intern on creating VR based game in Unity. Speciﬁcally, I worked on creating destructible 3D objects in Blender and Unity 3D as per the requirement of the game plot. </p>
     </div>
     <div class="row">
@@ -25,6 +25,27 @@ nav-menu: true
     </div>
   </div>
   <div>
-  <h2 id="content"> Personal Projects </h2>
+    <h2 id="content"> Personal Projects </h2>
+    <div class="6u 12u$(small)">
+      <h3>Sem turpis amet semper</h3>
+      <p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+    </div>
+    <div class="6u$ 12u$(small)">
+      <h3>Magna odio tempus commodo</h3>
+      <p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+    </div>
+    <!-- Break -->
+    <div class="4u 12u$(medium)">
+      <h3>Interdum sapien gravida</h3>
+      <p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+    </div>
+    <div class="4u 12u$(medium)">
+      <h3>Faucibus consequat lorem</h3>
+      <p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+    </div>
+    <div class="4u$ 12u$(medium)">
+      <h3>Accumsan montes viverra</h3>
+      <p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+    </div>
   </div>
 </div>
