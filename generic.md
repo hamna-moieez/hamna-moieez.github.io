@@ -28,8 +28,9 @@ nav-menu: true
       <p align="justify"><span class="image left"><img src="{% link assets/images/pic13.png %}" alt="" /></span><b><em> Jun 2018 - Aug 2018 </em></b>Center for Research in Modeling, Simulation & Vision (<a href="http://seecs.nust.edu.pk/Departments/Department-of-Computing/Labs/crms-lab.php">Crimson</a>) Lab is a research and development center setup to cater for modeling, simulation, analysis and optimization of complex research problems related to the disparate ﬁelds of ICT. Dr. Imran Mahmood. I worked as a development intern on creating VR based game in Unity. Speciﬁcally, I worked on creating destructible 3D objects in Blender and Unity 3D as per the requirement of the game plot.</p>
     </div>
   </div>
-  <div class="row">
+  <div>
   <h2 id="content"> Personal Projects </h2>
+  <div class="row">
   <div class="6u 12u$(small)">
     <h3>Whalify</h3>
     <p align="justify"> A project for classification and detection of whale calls without any speech pre-processing involved. For this, I collected raw audio dataset from Kaggle and CMST. The goal was to perform binary classification on orca and other whale call types. I trained AlexNet for thetask by converting raw audio samples to spectrograms.</p>
@@ -51,4 +52,5 @@ nav-menu: true
     <p align="justify">An android based application to perform and manage student advisory tasks for both teachers and students in academic environments</p>
   </div>
 </div>
+  </div>
 </div>
