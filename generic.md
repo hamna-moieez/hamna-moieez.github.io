@@ -2,7 +2,7 @@
 layout: post
 title: Experience
 description: Work at a glance
-image: assets/images/pic11.jpg
+image: assets/images/pic12.png
 nav-menu: true
 ---
 <!-- Main -->
