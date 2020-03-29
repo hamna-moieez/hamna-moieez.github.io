@@ -385,7 +385,7 @@ Finally, this is a <a href="#">link</a>.</p>
 <!-- Box -->
 <h3> Bachelors of Engineering in Software Engineering (BESE) </h3>
 <div class="box">
-	<p>I am currently enrolled in the final (4th) year of my undergraduate at School of Electrical Engineering and Computer Sciences (SEECS) from National University of Sciences and Technology (NUST), Islamabad, Pakistan. I will be graduating this year (2020).</br> <b>CPGA -</b><em> 3.43 / 4.00 </em></p>
+	<p>I am currently enrolled in the final (4th) year of my undergraduate at School of Electrical Engineering and Computer Sciences (SEECS) from National University of Sciences and Technology (NUST), Islamabad, Pakistan. I will be graduating this year (2020).<br> <b>CPGA -</b><em> 3.43 / 4.00 </em></p>
 </div>
 
 <h3> Higher Secondary School Certificate (Pre-Engineering) </h3>
