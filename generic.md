@@ -1,10 +1,15 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: Experience
+description: Work at a glance
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
+
+<h3> Slum Mapping Via Remote Sensing Imagery </h3>
+<div class="box">
+  <p><span class="image left"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span>I am working on undergraduate research thesis with TUKL-NUST R&D Center on slum mapping andlocalization using satellite imagery.I am focusing on identifying slums and collecting datasets from satellite imagery in Karachi and Islamabad. My current focus is on building loss functions to characterize long-tailed distributions since in majority of slum datasets the foreground pixels are dominant. This work is being done in collaboration with SiPEO Lab at TUM, Germany and German Aerospace Center. </p>
+</div>
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
 
