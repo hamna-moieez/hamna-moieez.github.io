@@ -29,8 +29,9 @@ nav-menu: true
     </div>
   </div>
 <!--   <div> -->
-    <h2 id="content"> Personal Projects </h2>
+    
     <div class="row">
+      <h2 id="content"> Personal Projects </h2>
       <div class="6u 12u$(small)">
         <h3>Whalify</h3>
         <p> A project for classification and detection of whale calls without any speech pre-processing involved. For this, I collected raw audio dataset from Kaggle and CMST. The goal was to perform binary classification on orca and other whale call types. I trained AlexNet for thetask by converting raw audio samples to spectrograms.</p>
