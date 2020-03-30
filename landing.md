@@ -19,7 +19,7 @@ nav-menu: true
 	</div>
 </section>
 
-<div>
+<div align="center">
 	<p><em> No posts yet! </em></p>
 	<ul class="actions">
 	    <li><a href="home.html" class="button next">Back to Home</a></li>
