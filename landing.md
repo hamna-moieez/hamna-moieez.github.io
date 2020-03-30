@@ -19,6 +19,12 @@ nav-menu: true
 	</div>
 </section>
 
+<div>
+	<p><em> No posts yet! </em></p>
+	<ul class="actions">
+	    <li><a href="home.html" class="button next">Back to Home</a></li>
+	</ul>
+</div>
 <!-- Two -->
 <!-- <section id="two" class="spotlights">
 	<section>
