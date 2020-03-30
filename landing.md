@@ -13,14 +13,14 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Reflections</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>Here are some of the blogs that I have written about my experience as a software engineer over the years. It is an insight into some of the research experiences and life lessons I've picked up along the way.</p>
 	</div>
 </section>
 
 <!-- Two -->
-<section id="two" class="spotlights">
+<!-- <section id="two" class="spotlights">
 	<section>
 		<a href="allposts.html" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
@@ -69,7 +69,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-</section>
+</section> -->
 
 <!-- Three -->
 <!-- <section id="three">
