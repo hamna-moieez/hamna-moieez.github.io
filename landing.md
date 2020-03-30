@@ -28,6 +28,10 @@ nav-menu: true
 	<ul class="actions">
 	    <li><a href="index.html" class="button next">Back to Home</a></li>
 	</ul>
+	<br>
+	<br>
+	<br>
+	<br>
 </div>
 <!-- Two -->
 <!-- <section id="two" class="spotlights">
