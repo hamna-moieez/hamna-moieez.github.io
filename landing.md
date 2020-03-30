@@ -20,9 +20,13 @@ nav-menu: true
 </section>
 
 <div align="center">
+	<br>
+	<br>
 	<p><em> No posts yet! </em></p>
+	<br>
+	<br>
 	<ul class="actions">
-	    <li><a href="home.html" class="button next">Back to Home</a></li>
+	    <li><a href="index.html" class="button next">Back to Home</a></li>
 	</ul>
 </div>
 <!-- Two -->
