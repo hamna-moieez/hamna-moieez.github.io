@@ -10,3 +10,6 @@ show_tile: false
 ---
 
 <h1>All posts</h1>
+<div>
+  <p><em>No posts yet!</em></p>
+</div>
