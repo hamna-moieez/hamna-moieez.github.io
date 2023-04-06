@@ -1,3 +1,1 @@
-Hello World.
-
-It is a new repo!!!
+This is Hamna Moieez's website source code. The source code is taken from <a href="https://github.com/jonbarron/website">Jon Barron's</a> website and is modified as required.
